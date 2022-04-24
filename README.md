@@ -13,7 +13,7 @@
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://github.com/molahez/molahez/blob/main/power-bi-vector-logo-2022.svg" alt="Power BI" width=80" height="45"/> </a>
 <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/molahez/molahez/blob/main/Alteryx_logo.svg" alt="Alteryx" width=80" height="40"/> </a>
 <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/molahez/molahez/blob/main/Dataiku_logo_COLOR.svg" alt="Dataiku" width=100" height="40"/> </a> 
-<a href="https://www.incorta.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/molahez/molahez/blob/main/Incorta.svg" alt="Dataiku" width=60" height="40"/> </a>      
+<a href="https://www.incorta.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/molahez/molahez/blob/main/Incorta.svg" alt="Incorta" width=60" height="40"  style="vertical-align:middle"/> </a>      
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
